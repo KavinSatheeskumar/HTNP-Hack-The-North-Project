@@ -1,4 +1,3 @@
-# KavinS-Sideprojects
-Side projects I have made 
+# HTNP
 
-This repository is a log of my best side projects from both highschool and university. 
+gimme a sec to debug, its being wierd
